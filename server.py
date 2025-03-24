@@ -30,7 +30,7 @@ email_sent = False  # Prevent multiple email alerts
 # Email Configuration
 EMAIL_ADDRESS = "saniagemmathew@gmail.com"  # Your email
 EMAIL_PASSWORD = "ndwtuhlkvyjgcqqv"  # Your email app password
-RELATIVE_EMAIL = "shreyagemmathew@gmail.com"  # Relative's email address
+RELATIVE_EMAIL = "shsreya2@gmail.com"  # Relative's email address
 
 
 def compute(ptA, ptB):
