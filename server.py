@@ -207,7 +207,8 @@ def gen_frames():
 @app.route('/')
 def index():
     """Render the main page."""
-    return render_template('index.html')
+    return open("index.html").read()
+
 
 
 @app.route('/video_feed')
